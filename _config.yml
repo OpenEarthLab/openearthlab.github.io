@@ -1,0 +1,46 @@
+# Basic
+title: LEI BAI
+subtitle: PhD Candidate, UNSW,Sydney
+
+
+permalink: /:year/:month/:title/
+
+# Format
+highlighter: rouge
+
+# supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
+cover_color: red
+
+    
+# Navigation buttons in the front page.
+nav:
+    
+    - {title: Research, description: My Research, url: 'https://www.researchgate.net/profile/Lei_Bai8'}
+    - {title: About me, description: A button, url: 'https://www.cse.unsw.edu.au/~leibai/'}
+    
+    
+
+# The blog button should not be removed.
+blog_button:
+    title: My Blog
+    description: Visit blog
+
+# Pagination
+gems: [jekyll-paginate]
+paginate: 10
+paginate_path: "page/:num/"
+
+# Comment
+comment:
+    disqus: vno-jekyll
+    # duoshuo: 
+    
+# Social
+social:
+    github: LeiBAI
+    mail: baisanshi@gmail.com
+
+# Google Analytics
+ga:
+    # id: your_ga_id
+    # host: your_host
