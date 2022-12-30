@@ -1,6 +1,6 @@
 # Basic
-title: LEI BAI
-subtitle: PhD Candidate, UNSW,Sydney
+title: OpenEarthLab
+subtitle: Intersections of AI and Earth Science
 
 
 permalink: /:year/:month/:title/
@@ -16,7 +16,7 @@ cover_color: red
 nav:
     
     - {title: Research, description: My Research, url: 'https://www.researchgate.net/profile/Lei_Bai8'}
-    - {title: About me, description: A button, url: 'https://www.cse.unsw.edu.au/~leibai/'}
+    # - {title: About me, description: A button, url: 'https://www.cse.unsw.edu.au/~leibai/'}
     
     
 
@@ -37,7 +37,7 @@ comment:
     
 # Social
 social:
-    github: LeiBAI
+    github: OpenEarthLab
     mail: baisanshi@gmail.com
 
 # Google Analytics
